@@ -9,3 +9,9 @@ ls
 Change directory.
 Example:
 cd foldername
+
+## pwd
+Shows current directory path.
+Example:
+pwd
+
