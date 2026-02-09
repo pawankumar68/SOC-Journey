@@ -37,4 +37,16 @@ rm file.txt
 Why Blue Team cares:
 Used carefully to remove unnecessary or malicious files.
 
+---
+
+## mv
+Moves or renames files and directories.
+
+Example:
+mv file1.txt file2.txt
+
+Why Blue Team cares:
+Used to rename or organize log files during investigations.
+
+
 
