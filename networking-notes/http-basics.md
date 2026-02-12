@@ -16,3 +16,11 @@ Example:
 
 Why Blue Team cares:
 Understanding HTTP helps in analyzing web traffic and detecting suspicious activity.
+
+## Common HTTP Methods
+
+GET – Used to request data  
+POST – Used to send data  
+PUT – Used to update data  
+DELETE – Used to delete data
+
