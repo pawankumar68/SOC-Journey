@@ -95,3 +95,68 @@ mv file.txt /home/user/
 Why Blue Team Cares:
 - Helps organize evidence.
 - Used to isolate suspicious files during analysis.
+
+---
+
+## cat
+
+Displays the full content of a file.
+
+Example:
+cat test.txt
+
+What I Observed:
+- It prints all lines inside the file.
+- Useful for quickly reading small files.
+
+Why Blue Team Cares:
+Used to read log files or configuration files during investigations.
+
+---
+
+## head
+
+Displays the first 10 lines of a file by default.
+
+Example:
+head test.txt
+
+What I Observed:
+- Shows only the top portion of a file.
+- Useful when the file is large.
+
+Why Blue Team Cares:
+Helps quickly check the beginning of log files for recent system events.
+
+---
+
+## tail
+
+Displays the last 10 lines of a file by default.
+
+Example:
+tail test.txt
+
+What I Observed:
+- Shows the bottom portion of the file.
+- Often used to monitor recent activity.
+
+Why Blue Team Cares:
+Useful for checking the latest log entries in files like /var/log/auth.log.
+
+---
+
+## grep
+
+Searches for a specific word or pattern inside a file.
+
+Example:
+grep SOC test.txt
+
+What I Observed:
+- Displays only lines that match the searched word.
+- Case-sensitive by default.
+
+Why Blue Team Cares:
+Very important for searching suspicious keywords in logs, such as failed login attempts or error messages.
+
