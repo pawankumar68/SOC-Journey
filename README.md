@@ -1,48 +1,44 @@
-# SOC Journey – Pawan
+# SOC Journey
 
-This repository documents my structured journey toward becoming a skilled SOC Analyst (Blue Team).
+This repository documents my structured learning path toward becoming a skilled Security Operations Center (SOC) Analyst.
 
-The purpose of this repository is to build strong fundamentals, practical skills, and security-focused analytical thinking required in a Security Operations Center (SOC) environment.
-
----
-
-## 📚 Repository Structure
-
-This repository is organized into focused learning areas:
-
-- Networking
-- Linux
-- Log Analysis
-- SIEM (Splunk)
-- Detection & Incident Response Thinking
-
-Each section contains:
-- Concept explanations written in my own words
-- Practical command usage and observations
-- Security relevance and SOC-focused insights
-- Continuous improvements over time
+The goal of this project is to build strong technical foundations in Linux and Networking while developing the analytical mindset required for blue team roles.
 
 ---
 
-## 🛠 Learning Philosophy
+## 🔐 Why This Repository Exists
 
-For every topic, I follow a structured approach:
+Security is not only about tools — it is about understanding systems, communication, and behavior.
 
-1. Understand the core concept  
-2. Practice using real commands or labs  
-3. Analyze outputs and behavior  
-4. Connect the topic to security use cases  
+This repository serves as:
+
+- A documented learning journey
+- A technical knowledge base
+- A place to refine analytical thinking
+- Proof of consistent daily practice
+
+---
+
+## 🛠 Learning Method
+
+For each topic, I follow a structured process:
+
+1. Learn the core concept  
+2. Practice commands or real examples  
+3. Observe system behavior  
+4. Connect learning to real-world security scenarios  
 5. Document insights clearly  
 
-This ensures practical understanding rather than memorization.
+This approach ensures deep understanding instead of memorization.
 
 ---
 
-## 🔐 Focus
+## 🎯 Core Focus
 
-The primary focus of this journey is to strengthen:
-- Networking fundamentals
-- Linux system understanding
-- Log analysis skills
-- Security monitoring concepts
-- Detection-based thinking
+- Linux system fundamentals  
+- Networking and internet communication  
+- Log analysis basics  
+- Security monitoring concepts  
+- Detection-oriented thinking  
+
+This repository will continuously evolve as knowledge and practical skills grow.
