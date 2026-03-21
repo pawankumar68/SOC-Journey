@@ -38,3 +38,78 @@ The `.arm` extension indicates this is a compiled binary for ARM architecture de
  
 The IP is also actively performing SSH and SMB/RDP bruteforce attacks,
 meaning it is being used as attack infrastructure — not just hosting malware.
+
+---
+ 
+## Assignment 2 – WHOIS Lookup & Reputation Check
+**Tools:** https://bgp.he.net + https://www.abuseipdb.com
+ 
+### Steps Performed
+1. Performed WHOIS/BGP lookup on IP using bgp.he.net
+2. Noted ISP, ASN, network range, and owner info
+3. Checked the IP on AbuseIPDB
+4. Reviewed abuse confidence score, total reports, and attack categories
+ 
+### WHOIS / BGP Findings
+ 
+| Field | Result |
+|-------|--------|
+| IP Checked | 194.165.16.11 |
+| IP Range | 194.165.16.0 – 194.165.17.255 |
+| Network Name | PA-FLYSERVERS |
+| ASN | AS48721 |
+| Network Range | 194.165.16.0/24 |
+| Owner / ISP | Flyservers S.A |
+| Organisation | ORG-FS255-RIPE |
+| Org Type | LIR (Local Internet Registry) |
+| Address | 50th Street, Global Bank Tower, Suite 1801, Panama City, PANAMA |
+| Abuse Email | abuse@flyservers.com |
+| Usage Type | Data Center / Web Hosting / Transit |
+| Hostname | ptr.flow-metric.com |
+| Domain | flyservers.com |
+| Country (AbuseIPDB) | Lithuania 🇱🇹 |
+| City | Vilnius |
+| Registry | RIPE NCC |
+| Record Created | 2021-12-15 |
+| Last Modified | 2021-12-15 |
+ 
+### AbuseIPDB Findings
+ 
+| Field | Result |
+|-------|--------|
+| IP Found in Database | ✅ Yes |
+| Abuse Confidence Score | **100%** |
+| Total Reports | 18,946 times from 634 distinct sources |
+| First Reported | November 27th, 2020 |
+| Last Reported | 17 hours ago (actively malicious) |
+| Attack Categories | Brute-Force, SSH, Bad Web Bot, Port Scan, Web App Attack, Exploited Host, Hacking |
+ 
+### Recent Attack Activity
+ 
+| Reporter | Category | Description |
+|----------|----------|-------------|
+| librebit | Brute-Force | Brute force attack |
+| SouperCat | Bad Web Bot | Scanning for vulnerabilities and private URLs |
+| seniorlinuxadmin | Port Scan, Web App Attack | HTTP scanning activity |
+| 23p02732 | Brute-Force, Exploited Host | Mailserver and mail account attacks |
+| Hugopvigo | Brute-Force, SSH | High confidence SSH bruteforce |
+| Vaction | Hacking, Bad Web Bot | Web App Attack |
+ 
+### Screenshots
+![BGP IP Info](images/03-bgp-ipinfo.png)
+![BGP Whois](images/04-bgp-whois.png)
+![AbuseIPDB Result](images/05-abuseipdb-result.png)
+![AbuseIPDB Reports](images/06-abuseipdb-reports.png)
+ 
+### Verdict
+**HIGHLY MALICIOUS** — This IP has a 100% abuse confidence score with nearly 19,000
+reports from 634 independent sources over 5 years, and was still actively attacking
+systems just 17 hours ago.
+ 
+It is hosted on Flyservers S.A — a data center in Lithuania commonly associated
+with bulletproof hosting (hosting providers that ignore abuse complaints).
+The IP is used for multiple attack types simultaneously: SSH bruteforce,
+web app attacks, port scanning, and botnet activity (Mirai).
+ 
+As an L1 SOC analyst, if this IP appeared in logs, it would be an immediate
+escalation to L2 with a recommendation to block at the firewall
