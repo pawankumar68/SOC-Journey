@@ -26,8 +26,8 @@
 | Last Analysis | 2026-03-21 17:03:57 UTC |
  
 ### Screenshots
-![VirusTotal Details Tab](assignments/images/01-virustotal-details.png)
-![VirusTotal Detection Tab](assignments/images/02-virustotal-detection.png)
+![VirusTotal Detection Tab](images/01-virustotal-detection.png)
+![VirusTotal Details Tab](images/02-virustotal-details.png)
  
 ### Verdict
 **MALICIOUS** — Confirmed malicious by 12 out of 95 security vendors.
