@@ -38,6 +38,7 @@ This approach ensures deep understanding instead of memorization.
 - Log analysis basics
 - Security monitoring concepts
 - Detection-oriented thinking
+- Hands-on Practices
 
 ---
 
@@ -48,4 +49,5 @@ This approach ensures deep understanding instead of memorization.
 | soc-fundamentals | SOC concepts, analyst roles, blue team thinking |
 | linux | Linux commands, permissions, log analysis |
 | networking | Protocols, traffic analysis, internet fundamentals |
+| Tryhackme | TryHackMe room notes, completion badges, hands-on labs |
 
