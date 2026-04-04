@@ -1,30 +1,26 @@
 # Tryhackme 🎯
 
-This folder contains my notes from TryHackMe rooms and learning paths.
-Each file is written after completing the room — tools used, concepts
-learned, and key takeaways.
+This folder tracks my TryHackMe room completions and learning paths.
 
 ---
 
 ## 📂 Rooms Completed
 
-| File | Room | Path | Date | Status |
-|------|------|------|------|--------|
-| junior-security-analyst-intro.md | Junior Security Analyst Intro | SOC Level 1 | 26-03-2026 | ✅ Done |
+| Room | Path | Date | Status |
+|------|------|------|--------|
+| Junior Security Analyst Intro | SOC Level 1 | 26-03-2026 | ✅ Done |
+| What is Networking | Pre-Security | 04-04-2026 | 90% (Last task is premium) |
+| DNS in Detail | Pre-Security | 04-04-2026 | ✅ Done |
 
 ---
 
-## 🔥 Stats
-- Rooms Completed: 1
-- Current Streak: 1
-- Points: 32
+## 🏆 Completion Proofs
 
----
-
-## 📁 Structure
-| Folder | Purpose |
-|--------|---------|
-| screenshots/ | Completion badges and key screenshots |
+| Room | Screenshot |
+|------|------------|
+| Junior Security Analyst Intro | [View](screenshots/junior-security-analyst-intro.png) |
+| What is Networking | [View](screenshots/what-is-networking.png) |
+| DNS in Detail | [View](screenshots/dns-in-detail.png) |
 
 ---
 
