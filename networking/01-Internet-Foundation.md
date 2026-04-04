@@ -34,9 +34,34 @@ Example:
 When you type google.com in your browser,
 DNS translates it into an IP address so your system can connect to the correct server.
 
-Why DNS Is Important:
-Without DNS, users would need to remember IP addresses instead of domain names.
+---
 
-Why Blue Team Cares:
-DNS logs help detect suspicious activity such as malware communication or unusual domain lookups.
+### DNS Record Types
+| Record | Purpose | Example |
+|--------|---------|---------|
+| A | IPv4 address | google.com → 142.x.x.x |
+| AAAA | IPv6 address | google.com → 2001:... |
+| CNAME | Alias/redirect to another domain | store.google.com → shop.google.com |
+| MX | Mail server for the domain | gmail.com mail server |
+| TXT | Stores text info, used for verification | SPF, DKIM records |
 
+### How DNS Works (Step by Step)
+1. You type **google.com** in browser
+2. Your PC checks its **local cache** first
+3. If not found → asks **Recursive DNS Resolver** (your ISP)
+4. Resolver asks **Root DNS Server** → points to .com server
+5. .com server points to **Google's Authoritative DNS**
+6. Authoritative DNS returns the IP address
+7. Your browser connects to that IP
+
+### Key Terms
+- **TTL (Time To Live)** → how long a DNS record is cached (in seconds)
+- **Recursive Resolver** → does the lookup work on your behalf
+- **Authoritative DNS** → the final source of truth for a domain
+- **Root Servers** → top of the DNS hierarchy, 13 sets worldwide
+
+### Blue Team Relevance
+- DNS logs help detect **C2 (Command & Control)** malware traffic
+- **DNS tunneling** → attackers hide data inside DNS queries
+- **DNS spoofing/poisoning** → fake DNS responses redirect users to malicious sites
+- Always monitor unusual DNS queries in SOC work
