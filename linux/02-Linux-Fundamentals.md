@@ -21,7 +21,7 @@ nano filename.txt
 nano /etc/hosts
 What I Observed:
 - Opens the file directly in the terminal for editing.
-- Keyboard shortcuts are shown at the bottom: Ctrl+O to save, Ctrl+X to exit.
+- Keyboard shortcuts are shown at the bottom: `Ctrl+O` to save, `Ctrl+X` to exit.
 - Does not require a graphical interface — works over SSH and remote sessions.
 
 Why Blue Team Cares:
