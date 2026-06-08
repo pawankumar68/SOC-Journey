@@ -24,5 +24,3 @@ This folder tracks my TryHackMe room completions and learning paths.
 
 ---
 
-> Each room connects to real SOC analyst work.
-> Notes are written from memory — not copied.
