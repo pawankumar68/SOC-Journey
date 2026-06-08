@@ -1,16 +1,27 @@
-# Tryhackme 🎯
+# TryHackMe 🎯
 
-This folder tracks my TryHackMe room completions and learning paths.
+This folder documents my TryHackMe room completions, key learnings,
+and progress across different learning paths.
 
 ---
 
 ## 📂 Rooms Completed
 
-| Room | Path | Date | Status |
-|------|------|------|--------|
-| Junior Security Analyst Intro | SOC Level 1 | 26-03-2026 | ✅ Done |
-| What is Networking | Pre-Security | 04-04-2026 | 90% (Last task is premium) |
-| DNS in Detail | Pre-Security | 04-04-2026 | ✅ Done |
+| Room | Path | Status |
+|------|------|--------|
+| Junior Security Analyst Intro | SOC Level 1 | ✅ Done |
+| What is Networking | Pre-Security | 90% (Last task is premium) |
+| DNS in Detail | Pre-Security | ✅ Done |
+
+---
+
+## 📝 Room Writeups
+
+| Room | Writeup |
+|------|---------|
+| Junior Security Analyst Intro | Coming Soon |
+| What is Networking | Coming Soon |
+| DNS in Detail | Coming Soon |
 
 ---
 
@@ -24,3 +35,5 @@ This folder tracks my TryHackMe room completions and learning paths.
 
 ---
 
+> 💡 Every room completed here connects directly to real SOC analyst work.
+> Writeups document not just answers — but the thinking process behind them.
