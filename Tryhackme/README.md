@@ -19,7 +19,7 @@ and progress across different learning paths.
 
 | Room | Writeup |
 |------|---------|
-| Junior Security Analyst Intro | Coming Soon |
+| Junior Security Analyst Intro | [View](writeups/junior-security-analyst-intro.md) |
 | What is Networking | Coming Soon |
 | DNS in Detail | Coming Soon |
 
