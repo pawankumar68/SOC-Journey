@@ -21,7 +21,7 @@ and progress across different learning paths.
 |------|---------|
 | Junior Security Analyst Intro | [View](writeups/junior-security-analyst-intro.md) |
 | What is Networking | Coming Soon |
-| DNS in Detail | Coming Soon |
+| DNS in Detail | [View](writeups/dns-in-detail.md) |
 
 ---
 
