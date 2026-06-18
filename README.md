@@ -1,10 +1,9 @@
 # SOC Journey 🛡️
 
-> 👤 BCA 4th Semester Student | Aspiring SOC Analyst | Learning in Public
-> 📍 Currently Following: ZeroDay Vault — SOC Analyst L1 Masterclass — Day 2/30
+> 👤 A BCA Student | Aspiring SOC Analyst | Learning in Public
 
 This repository documents my structured learning path toward becoming a skilled Security Operations Center (SOC) Analyst.
-The goal of this project is to build strong technical foundations in Linux and Networking while developing the analytical mindset required for blue team roles.
+The goal of this project is to build strong technical foundations required for blue team roles.
 
 ---
 
@@ -32,22 +31,12 @@ This approach ensures deep understanding instead of memorization.
 
 ---
 
-## 🎯 Core Focus
-- Linux system fundamentals
-- Networking and internet communication
-- Log analysis basics
-- Security monitoring concepts
-- Detection-oriented thinking
-- Hands-on Practices
-
----
-
 ## 📂 Repository Structure
 
 | Folder | Description |
 |--------|-------------|
-| soc-fundamentals | SOC concepts, analyst roles, blue team thinking |
-| linux | Linux commands, permissions, log analysis |
-| networking | Protocols, traffic analysis, internet fundamentals |
-| Tryhackme | TryHackMe room notes, completion badges, hands-on labs |
+| soc-fundamentals | My learnings about SOC fundamentals through zeroday vault youtube channel's 30 day SOC fundamentals playlist |
+| linux | My learnings about linux and its commands |
+| networking |My learnings about networking and its concepts |
+| Tryhackme |All TryHackMe rooms i completed with writups and screenshots |
 
