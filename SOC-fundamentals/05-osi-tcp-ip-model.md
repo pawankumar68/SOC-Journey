@@ -9,9 +9,9 @@ It is a 7 layer framework that explains how data travels between systems.
 - **Layer 7 - Application** — User level services like HTTP, DNS, FTP
 - **Layer 6 - Presentation** — Data formatting and encryption
 - **Layer 5 - Session** — Managing communication sessions
+- **Layer 4 - Transport** — TCP and UDP communication
 
 **Lower Layers (Media Layers):**
-- **Layer 4 - Transport** — TCP and UDP communication
 - **Layer 3 - Network** — IP addresses and routing
 - **Layer 2 - Data Link** — MAC addresses and switching
 - **Layer 1 - Physical** — Cables and hardware transmission
