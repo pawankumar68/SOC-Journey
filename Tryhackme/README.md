@@ -10,8 +10,9 @@ and progress across different learning paths.
 | Room | Path | Status |
 |------|------|--------|
 | Junior Security Analyst Intro | SOC Level 1 | ✅ Done |
-| What is Networking | Pre-Security | 90% (Last task is premium) |
+| What is Networking | Pre-Security | ✅ Done |
 | DNS in Detail | Pre-Security | ✅ Done |
+| Intro to LAN | Pre-Security | 🔄 In Progress |
 
 ---
 
@@ -20,7 +21,7 @@ and progress across different learning paths.
 | Room | Writeup |
 |------|---------|
 | Junior Security Analyst Intro | [View](writeups/junior-security-analyst-intro.md) |
-| What is Networking | Coming Soon |
+| What is Networking | [View](writeups/what-is-networking.md) |
 | DNS in Detail | [View](writeups/dns-in-detail.md) |
 
 ---
