@@ -13,6 +13,7 @@ and progress across different learning paths.
 | What is Networking | Pre-Security | ✅ Done |
 | DNS in Detail | Pre-Security | ✅ Done |
 | Intro to LAN | Pre-Security | ✅ Done |
+| Inside a Computer System | Pre-Security | ✅ Done |
 
 ---
 
@@ -23,7 +24,8 @@ and progress across different learning paths.
 | Junior Security Analyst Intro | [View](writeups/junior-security-analyst-intro.md) |
 | What is Networking | [View](writeups/what-is-networking.md) |
 | DNS in Detail | [View](writeups/dns-in-detail.md) |
-| Intro to LAN | [View](writeups/intro-to-LAN.md) |
+| Intro to LAN | [View](writeups/intro-to-lan.md) |
+| Inside a Computer System | [View](writeups/inside-a-computer-system.md) |
 
 ---
 
@@ -34,7 +36,8 @@ and progress across different learning paths.
 | Junior Security Analyst Intro | [View](screenshots/junior-security-analyst-intro.png) |
 | What is Networking | [View](screenshots/what-is-networking.png) |
 | DNS in Detail | [View](screenshots/dns-in-detail.png) |
-| Intro to LAN | [View](screenshots/intro-to-LAN.png) |
+| Intro to LAN | [View](screenshots/intro-to-lan.png) |
+| Inside a Computer System | [View](screenshots/inside-a-computer-system.png) |
 
 ---
 
