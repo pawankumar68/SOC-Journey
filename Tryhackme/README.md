@@ -14,6 +14,7 @@ and progress across different learning paths.
 | DNS in Detail | Pre-Security | ✅ Done |
 | Intro to LAN | Pre-Security | ✅ Done |
 | Inside a Computer System | Pre-Security | ✅ Done |
+| Operating Systems: Introduction | Pre-Security | ✅ Done |
 
 ---
 
@@ -26,6 +27,7 @@ and progress across different learning paths.
 | DNS in Detail | [View](writeups/dns-in-detail.md) |
 | Intro to LAN | [View](writeups/intro-to-lan.md) |
 | Inside a Computer System | [View](writeups/inside-a-computer-system.md) |
+| Operating Systems: Introduction | [View](writeups/operating-systems-introduction.md) |
 
 ---
 
@@ -38,6 +40,7 @@ and progress across different learning paths.
 | DNS in Detail | [View](screenshots/dns-in-detail.png) |
 | Intro to LAN | [View](screenshots/intro-to-lan.png) |
 | Inside a Computer System | [View](screenshots/inside-a-computer-system.png) |
+| Operating Systems: Introduction | [View](screenshots/operating-systems-introduction.png) |
 
 ---
 
