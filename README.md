@@ -1,6 +1,6 @@
 # SOC Journey 🛡️
 
-> 👤 A BCA Final year Student | Aspiring SOC Analyst | Learning in Public
+> 👤 A BCA  Student | Aspiring SOC Analyst | Learning in Public
 
 This repository documents my structured learning path toward becoming a skilled Security Operations Center (SOC) Analyst.
 The goal of this project is to build strong technical foundations required for blue team roles.
