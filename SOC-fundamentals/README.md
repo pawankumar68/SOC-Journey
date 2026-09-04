@@ -19,6 +19,7 @@ not copy-pasted. This ensures genuine understanding over memorization.
 | [05-osi-tcp-ip-model.md](05-osi-tcp-ip-model.md) | OSI layers, TCP/IP, encapsulation, MAC, IP | ✅ Done |
 | [06-network-devices-attacks-tools.md](06-network-devices-attacks-tools.md) | Devices, topologies, attacks, SOC tools, ports | ✅ Done |
 | [07-ports-and-protocols.md](07-ports-and-protocols.md) | Protocols, ports, TCP flags, email/web/remote protocols | ✅ Done |
+| [08-ip-addressing.md](08-ip-addressing.md) | IP addressing, IPv4/IPv6, subnetting, CIDR, SOC usage | ✅ Done |
 
 ---
 
@@ -32,7 +33,7 @@ not copy-pasted. This ensures genuine understanding over memorization.
 
 ## 🔗 Source
 ZeroDay Vault — SOC Analyst L1 Masterclass (30 Days)
-Progress: Day 5 / 30 ✅
+Progress: Day 6 / 30 ✅
 
 ---
 
