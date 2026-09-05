@@ -27,7 +27,7 @@ and progress across different learning paths.
 |---|------|---------|
 | 1 | Junior Security Analyst Intro | [View](writeups/junior-security-analyst-intro.md) |
 | 2 | Offensive Security Intro | [View](writeups/offensive-security-intro.md) |
-| 3 | Defensive Security Intro | Coming Soon |
+| 3 | Defensive Security Intro | [View](writeups/defensive-security-intro.md) |
 | 4 | Careers in Cyber | Coming Soon |
 | 5 | Inside a Computer System | [View](writeups/inside-a-computer-system.md) |
 | 6 | Operating Systems: Introduction | [View](writeups/operating-systems-introduction.md) |
@@ -43,7 +43,7 @@ and progress across different learning paths.
 |---|------|------------|
 | 1 | Junior Security Analyst Intro | [View](screenshots/junior-security-analyst-intro.png) |
 | 2 | Offensive Security Intro | [View](screenshots/offensive-security-intro.png) |
-| 3 | Defensive Security Intro | Coming Soon |
+| 3 | Defensive Security Intro | [View](screenshots/defensive-security-intro.png) |
 | 4 | Careers in Cyber | Coming Soon |
 | 5 | Inside a Computer System | [View](screenshots/inside-a-computer-system.png) |
 | 6 | Operating Systems: Introduction | [View](screenshots/operating-systems-introduction.png) |
