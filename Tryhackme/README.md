@@ -18,6 +18,7 @@ and progress across different learning paths.
 | 7 | What is Networking | Pre-Security | ✅ Done |
 | 8 | Intro to LAN | Pre-Security | ✅ Done |
 | 9 | DNS in Detail | Pre-Security | ✅ Done |
+| 10 | Windows Basics | Pre-Security | ✅ Done |
 
 ---
 
@@ -34,24 +35,11 @@ and progress across different learning paths.
 | 7 | What is Networking | [View](writeups/what-is-networking.md) |
 | 8 | Intro to LAN | [View](writeups/intro-to-lan.md) |
 | 9 | DNS in Detail | [View](writeups/dns-in-detail.md) |
+| 10 | Windows Basics | [View](writeups/windows-basics.md) |
 
 ---
 
 ## 🏆 Completion Proofs
 
 | # | Room | Screenshot |
-|---|------|------------|
-| 1 | Junior Security Analyst Intro | [View](screenshots/junior-security-analyst-intro.png) |
-| 2 | Offensive Security Intro | [View](screenshots/offensive-security-intro.png) |
-| 3 | Defensive Security Intro | [View](screenshots/defensive-security-intro.png) |
-| 4 | Careers in Cyber | [View](screenshots/careers-in-cyber.png) |
-| 5 | Inside a Computer System | [View](screenshots/inside-a-computer-system.png) |
-| 6 | Operating Systems: Introduction | [View](screenshots/operating-systems-introduction.png) |
-| 7 | What is Networking | [View](screenshots/what-is-networking.png) |
-| 8 | Intro to LAN | [View](screenshots/intro-to-lan.png) |
-| 9 | DNS in Detail | [View](screenshots/dns-in-detail.png) |
-
----
-
-> 💡 Every room completed here connects directly to real SOC analyst work.
-> Writeups document not just answers — but the thinking process behind them.
+|---|----
